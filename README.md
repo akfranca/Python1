@@ -1,4 +1,3 @@
 # Python1
-Aula Python Mundo 1 - Gustavo Guanabara
+exercicios mundo 1 do curso python - prof Guanabara
 
-Exercícios
